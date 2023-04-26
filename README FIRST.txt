@@ -1,6 +1,8 @@
-Sebelum membuka aplikasi ini harap Download aplikasi Python dan install
+Sebelum membuka aplikasi ini harap install python yang ada dalam Folder c:\ytviewer
+kemudian install aplikasi installer didalam folder
+ulangi 2x (installer.exe) Jika Aplikasi ytviewer.py belum bisa dibuka
 
-https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+
   
 #FiturAplikasi YtViewer
 1. YouTube default, streaming , dan dukungan YouTube Music

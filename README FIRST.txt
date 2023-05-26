@@ -1,9 +1,7 @@
-Sebelum membuka aplikasi ini harap install python yang ada dalam Folder c:\ytviewer
-kemudian install aplikasi installer didalam folder
-ulangi 2x (installer.exe) Jika Aplikasi ytviewer.py belum bisa dibuka
+Terimakasih Kepada Allah SWT dan Nabi Muhammad SAW
+Terimakasih kepada MSHAWON
+Terimakasih kepada Ahmad Badar (badar found)
 
-
-  
 #FiturAplikasi YtViewer
 1. YouTube default, streaming , dan dukungan YouTube Music
 2. Dukungan  multithreaded dan Dinamis
@@ -27,6 +25,3 @@ melewati halaman persetujuan dan beberapa pop up lainnya
 4. Layar Akhir
 5. Halaman Channel
 6. Langsung atau tidak diketahui
-
-thank you for my partner
-	Ahmad Badar (badar found)

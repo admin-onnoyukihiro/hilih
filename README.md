@@ -1,6 +1,6 @@
 ## ___Download App :___
 ```
-https://is.gd/ytdownloadapp
+https://is.gd/ytdownload_id
 ```
 ## ___FiturAplikasi YtViewer :___
 
